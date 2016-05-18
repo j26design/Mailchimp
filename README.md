@@ -15,3 +15,6 @@ A public place to request features and report bugs for the Mailchimp widget buil
 1. Create a *[New Issue](https://github.com/j26design/Mailchimp/issues/new?labels=enhancement)* in the *Issues* tab.
 2. In the *Labels* panel, click the gear and select the *enhancement* label from the dropdown.
 3. Give your issue a title and add a description *(optional)* and click *Submit new issue*!
+
+## Learn about this widget
+[<img src="https://d3chm37gkupvsm.cloudfront.net/images/mailchimp-video.png"/>](https://www.youtube.com/watch?v=cy53iIZzn04&list=PLIdBi4xCvURa5ZRNfXOfAyLLUAw3Vzybo)
